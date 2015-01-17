@@ -1,0 +1,9 @@
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\bin\Release\calc.exe.config
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\obj\Release\calc.exe
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\obj\Release\calc.pdb
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\bin\Release\calc.exe
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\bin\Release\calc.pdb
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\obj\Release\calc.Calculator.resources
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\obj\Release\calc.Help.resources
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\obj\Release\calc.Properties.Resources.resources
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\obj\Release\Calc_CS.csproj.GenerateResource.Cache

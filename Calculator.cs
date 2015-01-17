@@ -47,6 +47,8 @@ namespace calc
 			operChanged = false;
 			equalClicked = false;
 			pastOperand = double.Parse(disp.Text);
+
+			disp.Focus();	// prevent FOCUS
 		}
 
 		private void btn_dot_Click(object sender, EventArgs e)
@@ -57,6 +59,8 @@ namespace calc
 				disp.Text += ".";
 			operChanged = false;
 			equalClicked = false;
+
+			disp.Focus();	// prevent FOCUS
 		}
 
 		private void btn_ac_Click(object sender, EventArgs e)
@@ -68,6 +72,8 @@ namespace calc
 			pastOperand = 0.0;  // 피연산자 기억
 			operChanged = false;
 			equalClicked = false;
+
+			disp.Focus();	// prevent FOCUS
 
 		}
 
@@ -82,6 +88,8 @@ namespace calc
 				else
 					disp.Text = "0";
 			}
+
+			disp.Focus();	// prevent FOCUS
 		}
 
 		private void btn_oper_Click(object sender, EventArgs e)
@@ -112,6 +120,8 @@ namespace calc
 			operChanged = true; //연산자 눌렸어요!
 			equalClicked = false;
 
+
+			disp.Focus();	// prevent FOCUS
 			//MessageBox.Show(pastCalc.ToString());
 		}
 
@@ -153,6 +163,8 @@ namespace calc
 			disp.Text = pastCalc.ToString();
 			operChanged = true;
 			equalClicked = true;
+
+			disp.Focus();	// prevent FOCUS
 		}
 
 		private void Form1_KeyPress(object sender, KeyPressEventArgs e)     // 숫자 및 연산자
@@ -173,7 +185,7 @@ namespace calc
 				btn_ac_Click(null, null);
 			if (keyChar == 'n' || keyChar == 'N')
 				btn_negate_Click(null, null);
-			//if (keyChar == '\r') MessageBox.Show("RRRR");     return은 \r\n   
+			//if (keyChar == '\r') MessageBox.Show("RRRR");     return은 \r\n
 		}
 
 		private void menu_appInfo_Click(object sender, EventArgs e)
@@ -199,6 +211,8 @@ namespace calc
 				if (equalClicked)
 					pastCalc = negated;
 			//}	
+
+				disp.Focus();	// prevent FOCUS
 		}
 	}
 }

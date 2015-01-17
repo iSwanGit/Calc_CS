@@ -1,0 +1,10 @@
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\bin\Debug\calc.exe.config
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\obj\Debug\calc.exe
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\obj\Debug\calc.pdb
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\bin\Debug\calc.exe
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\bin\Debug\calc.pdb
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\obj\Debug\Calc_CS.csprojResolveAssemblyReference.cache
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\obj\Debug\calc.Calculator.resources
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\obj\Debug\calc.Help.resources
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\EleMas\Documents\Visual Studio 2013\Projects\Hacker\calc\obj\Debug\Calc_CS.csproj.GenerateResource.Cache
